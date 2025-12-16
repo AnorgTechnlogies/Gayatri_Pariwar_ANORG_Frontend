@@ -1,7 +1,7 @@
 // src/components/OurStory.jsx
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import shantikunj from "../assets/Shantikunj.jpg";
+import shantikunj from "../assets/shantikunj.jpg";
 
 const OurStory = () => {
   const navigate = useNavigate();
